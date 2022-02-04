@@ -16,7 +16,7 @@
   * Java 17 (and everything since Java 11)
   * Lightweight Java Game Library (v3)
   
-* 💞️ I’m looking to collaborate on
+* 🔧 I’m looking to collaborate on
   * Open-source Java projects
     * Games, developer tools, libraries, benevolent end-user applications
       * Sorry - I'm not interested in any projects focused on Android or mobile at this time
