@@ -2,7 +2,7 @@
   * Enterprise Java Developer with more than a decade of Java experience.
     * Primarily focused on cloud architecture and design.
     * Mastery of both JavaEE (JakartaEE) and Spring.
-    * Expert debugging skills, a keen eye, and a thirst for answers.
+    * Expert debugging skills, a keen eye, and a thirst for fixing bugs.
   
 * 👀 I’m interested in:
   * Java (Career, Hobby)
